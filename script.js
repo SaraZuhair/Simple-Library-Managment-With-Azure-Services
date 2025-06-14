@@ -4,7 +4,8 @@ let libraryForm = document.getElementById("libraryForm");
 let name = document.getElementById("bookName");
 let author = document.getElementById("author");
 let isbn = document.getElementById("isbnno");
-let edition = document.getElementById("publicationdate");
+let edition = document.getElementById("edition");
+let publicationD = document.getElementById("publicationdate");
 let read = document.getElementById("read-toggle");
 
 let url = document.getElementById("bookurl");
